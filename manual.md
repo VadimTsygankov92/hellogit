@@ -1,2 +1,24 @@
 Инструкция по Markdown
 Создал Цыганков Вадим
+
+Списки
+
+* one
+* two
+* three
+* four
+    * four 1
+    * four 2
+        * four 2 1
+        * four 2 2
+        * four 2 3
+             * 2
+             * 4
+
+1. one
+1. two
+1. three
+1. four
+    1. four 1
+    1. four 2
+
